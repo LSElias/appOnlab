@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.boxie{
+    box-shadow: rgba(0, 0, 0, 0.589) 0px 0px 20px;
+    background-color: rgb(217, 220, 224);
+    margin: 2em auto;
+    padding-top: 1em;
+    height: 70vh;
+    width: 90vh;
+    border-radius: 5vh;
+    transition: 1s;
+}
+
+h1{
+    align-items: center;
+    background-image: linear-gradient(45deg, #48aaeb, #160f74);
+    
+
+}
+

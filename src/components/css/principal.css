@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    height: 100vh;
+    overflow-y: auto;
+}
+
+.css-hip9hq-MuiPaper-root-MuiAppBar-root{
+    background-image: linear-gradient(45deg, #2eb5c4, #341c92);
+}
+
+.css-sg2lua{
+    background-image: linear-gradient(180deg, #2eb5c400, #2121276c);
+}
+
+.tabby{
+    width:100%;
+}
+
+.registrese:hover{
+    background-image: "linear-gradient(180deg, #ff, #ff)";
+
+}
